@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\лабы по ооп\\lab6\\lab6.csproj": {}
+    "D:\\лабы по ооп\\lab_OOP\\lab6\\lab6.csproj": {}
   },
   "projects": {
-    "D:\\лабы по ооп\\lab6\\lab6.csproj": {
+    "D:\\лабы по ооп\\lab_OOP\\lab6\\lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\лабы по ооп\\lab6\\lab6.csproj",
+        "projectUniqueName": "D:\\лабы по ооп\\lab_OOP\\lab6\\lab6.csproj",
         "projectName": "lab6",
-        "projectPath": "D:\\лабы по ооп\\lab6\\lab6.csproj",
+        "projectPath": "D:\\лабы по ооп\\lab_OOP\\lab6\\lab6.csproj",
         "packagesPath": "C:\\Users\\nepog\\.nuget\\packages\\",
-        "outputPath": "D:\\лабы по ооп\\lab6\\obj\\",
+        "outputPath": "D:\\лабы по ооп\\lab_OOP\\lab6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nepog\\AppData\\Roaming\\NuGet\\NuGet.Config",
