@@ -16,7 +16,7 @@ namespace lab8 {
             }
             set {
                 foreach (char el in value) {
-                    if (el - '0' > 7 && el - '0' < 0) {
+                    if (el - '0' > 7 || el - '0' < 0) {
                         throw new Exception("Unexpected character");
                     }
                 }
@@ -34,6 +34,22 @@ namespace lab8 {
 
         public static Boolean operator !=(EightNum num1, EightNum num2) {
             return num1.num != num2.num;
+        }
+
+        public static Boolean operator >(EightNum num1, EightNum num2) {
+            return int.Parse(num1.num) > int.Parse(num2.num);
+        }
+
+        public static Boolean operator <(EightNum num1, EightNum num2) {
+            return int.Parse(num1.num) < int.Parse(num2.num);
+        }
+
+        public static Boolean operator >=(EightNum num1, EightNum num2) {
+            return int.Parse(num1.num) >= int.Parse(num2.num);
+        }
+
+        public static Boolean operator <=(EightNum num1, EightNum num2) {
+            return int.Parse(num1.num) <= int.Parse(num2.num);
         }
 
         public int ToNormalNumber() {
@@ -55,9 +71,9 @@ namespace lab8 {
     class Program {
         static void Main(string[] args) {
             EightNum num1 = new EightNum("01234567"),
-                num2 = new EightNum("12");
+                num2 = new EightNum("1234567");
             Console.WriteLine(num2[1]);
-            Console.WriteLine(num2 == num1);
+            Console.WriteLine(num2 <= num1);
             Console.WriteLine(int.Parse(num1.Num));
             Console.WriteLine(num2.Num);
             Console.WriteLine(num2.ToNormalNumber());
