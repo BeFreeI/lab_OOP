@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\лабы по ооп\\lab2\\lab2.csproj",
+      "projectUniqueName": "D:\\лабы по ооп\\lab_OOP\\lab2\\lab2.csproj",
       "projectName": "lab2",
-      "projectPath": "D:\\лабы по ооп\\lab2\\lab2.csproj",
+      "projectPath": "D:\\лабы по ооп\\lab_OOP\\lab2\\lab2.csproj",
       "packagesPath": "C:\\Users\\nepog\\.nuget\\packages\\",
-      "outputPath": "D:\\лабы по ооп\\lab2\\obj\\",
+      "outputPath": "D:\\лабы по ооп\\lab_OOP\\lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nepog\\AppData\\Roaming\\NuGet\\NuGet.Config",
