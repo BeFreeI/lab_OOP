@@ -1,0 +1,13 @@
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\bin\Debug\netcoreapp3.1\eventsAndDelegates.exe
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\bin\Debug\netcoreapp3.1\eventsAndDelegates.deps.json
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\bin\Debug\netcoreapp3.1\eventsAndDelegates.runtimeconfig.json
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\bin\Debug\netcoreapp3.1\eventsAndDelegates.runtimeconfig.dev.json
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\bin\Debug\netcoreapp3.1\eventsAndDelegates.dll
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\bin\Debug\netcoreapp3.1\eventsAndDelegates.pdb
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.csprojAssemblyReference.cache
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.AssemblyInfoInputs.cache
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.AssemblyInfo.cs
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.dll
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.pdb
+D:\лабы по ооп\lab_OOP\eventsAndDelegates\obj\Debug\netcoreapp3.1\eventsAndDelegates.genruntimeconfig.cache
